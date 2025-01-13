@@ -1,0 +1,7 @@
+pybliometrics
+pandas
+datetime
+tqdm
+nltk
+matplotlib
+numpy
